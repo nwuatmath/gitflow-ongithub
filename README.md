@@ -1,3 +1,3 @@
 # gitflow-ongithub
-#intrduction to gitflow on github
+#introduction to gitflow on github
 
